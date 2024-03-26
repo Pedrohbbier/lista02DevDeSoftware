@@ -9,6 +9,7 @@ public class Program {
         //Ex006.execute();
         //Ex007.execute();
         //Ex008.execute();
-        Ex009.execute();
+        //Ex009.execute();
+        Ex010.execute();
     }
 }
